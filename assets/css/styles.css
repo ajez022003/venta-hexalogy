@@ -1,0 +1,30 @@
+.img-nav{
+    height: 55px;
+
+}
+.linea{
+    color:#3090cf; 
+    display: flex; 
+    justify-content: center;
+}
+#formulario{
+    background-color: #C5D7E3;
+    color: #0f0f0f;
+    width: 300px;
+    height: auto; 
+    border-radius: 20px;
+    padding: 30px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    transition:background-color 0.3s ease-in-out;
+}
+
+.control{
+    width: 100%;
+    padding: 15px;
+    box-sizing: border-box;
+    font-size: 1rem;
+    margin-bottom: 10px;
+    border-width: 0;
+    border-radius: 10px;
+}
