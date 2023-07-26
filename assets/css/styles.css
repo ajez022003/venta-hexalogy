@@ -2,6 +2,7 @@
     height: 55px;
 
 }
+
 .linea{
     color:#3090cf; 
     display: flex; 
@@ -18,6 +19,17 @@
     margin-right: auto;
     transition:background-color 0.3s ease-in-out;
 }
+#img-principal{
+    display: flex; 
+    justify-content: center;
+    width: 400px;
+    height: auto; 
+    border-radius: 20px;
+    padding: 30px 20px;
+    margin-left: auto;
+    margin-right: auto;
+    transition:background-color 0.3s ease-in-out;
+}
 
 .control{
     width: 100%;
@@ -27,4 +39,9 @@
     margin-bottom: 10px;
     border-width: 0;
     border-radius: 10px;
+}
+.img-producto{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
 }
