@@ -1,0 +1,486 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador</title>
+    <link rel="stylesheet" href="css/estilos.css">
+</head>
+<body>
+    <header>
+        <div class="menu container">
+            <a href="#"> <img src="img/Hexalogy-logo.jpg"  class="logo" alt=""></a>
+            <input type="checkbox" id="menu">
+            <label for="menu"><img src="img/fondo1.jpeg" class="menu-icono" alt=""></label>
+            <nav class="navbar">
+                <ul>
+                    <li><a href="#">Inicio</a></li>
+                    <li><a href="#">Ordenes</a></li>
+                    <li><a href="#">Productos</a></li>
+                    <li><a href="#">Motorista</a></li>
+                </ul>
+            </nav>
+        </div>
+
+        <div class="header-content container">
+            <div class="header-txt">
+                <h1>Modo Administrativo</h1>
+                <p>
+                    Advanced Technologies.
+                </p>
+            </div>
+
+            <div class="header-img">
+                <img src="img/fondo3.jpeg" class="computer" alt="">
+
+            </div>
+        </div>
+    </header>
+
+    <main class="product-menu">
+
+        <div class="container">
+
+            <div class="product">
+                <h2 class="title">Menu</h2>
+                <img class="hoja" src="img/" alt="">
+            </div>
+
+            <div class="menu-nav">
+                <div id="pro1" class="tab active" >Empresas</div>
+                <div id="pro2" class="tab" >Productos</div>
+                <div id="pro3" class="tab" >Ordenes</div>
+                <div id="pro4" class="tab" >Motorista</div>
+            </div>
+
+            <div class="pro1 tab-content">
+                <div class="box-container-1">
+
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur jejeje.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-1">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+
+
+                </div>
+                <center>
+                    <div class="load-more" id="load-more-1">Cargar Mas</div>
+                </center>
+            </div>
+
+            <div class="pro2 tab-content">
+                <div class="box-container-2">
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-2">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <center>
+                    <div class="load-more" id="load-more-2">Cargar Mas</div>
+                </center>
+            </div>
+
+            <div class="pro3 tab-content">
+                <div class="box-container-3">
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="box-3">
+                        <div class="image">
+                            <img src="img/apple.jpeg" alt="">
+                        </div>
+                        <div class="content">
+                            <h3>Productos</h3>
+                            <p>Lorem ipsum dolor sit amet consectetur.</p>
+                            <div class="icons">
+                                <span class="price">L0.00</span>
+                                <span class="buy"><img src="img/apple.jpeg" alt=""></span>
+                            </div>
+                        </div>
+                    </div>
+
+                </div>
+                <center>
+                    <div class="load-more" id="load-more-3">Cargar Mas</div>
+                </center>
+            </div>
+
+        </div>
+
+    </main>
+
+    <footer class="footer container">
+
+        <img class="logo-2" src="img/compu2.jpeg" alt="">
+
+        <div class="links">
+            <h4>Marcas</h4>
+            <ul>
+                <li><a href="#">Apple</a></li>
+                <li><a href="#">Samsung</a></li>
+                <li><a href="#">Dell</a></li>
+                <li><a href="#">Nokia</a></li>
+            </ul>
+        </div>
+
+        <div class="links">
+            <h4>Productos</h4>
+            <ul>
+                <li><a href="#">Celulares</a></li>
+                <li><a href="#">Computadoras</a></li>
+                <li><a href="#">Audifonos</a></li>
+                <li><a href="#">Tablets</a></li>
+            </ul>
+        </div>
+
+        <div class="links">
+            <h4>Administradores</h4>
+            <ul>
+                <li><a href="#">Lorem</a></li>
+                <li><a href="#">Lorem</a></li>
+            </ul>
+        </div>
+        <div class="links">
+            <h4>Lorem</h4>
+            <div class="socials">
+                <a href="#">
+                    <div class="social">
+                        <img src="img/" alt="">
+                    </div>
+                </a>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="controlador.js"></script>
+</body>
+</html>
