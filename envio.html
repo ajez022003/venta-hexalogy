@@ -7,6 +7,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
     <script src="https://kit.fontawesome.com/c65d00602a.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="assets/css/styles.css">
+    <script src="assets/js/controlador.js"></script>
 </head>
 <body>
     <nav class="navbar navbar-expand-lg bg-body-tertiary">
@@ -15,7 +16,7 @@
                 <span class="navbar-toggler-icon"></span>
               </button>
               <img class="img-nav" src="assets/img/2023-06-25 (21).png" alt="">
-              <i class="fa-solid fa-cart-shopping"></i>
+              <i class="fa-solid fa-cart-shopping" onclick="irCarrito()"></i>
           
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
@@ -57,7 +58,7 @@
       <tr>
         <th>Total</th>
         <th>L 0.00</th>
-        <th><i class="fa-solid fa-cart-shopping"></i></th>
+        <th><i class="fa-solid fa-cart-shopping" onclick="irCarrito()"></i></th>
       </tr>
      </table>  
       <p> Datos para envio</p>
@@ -100,8 +101,8 @@
     
     <div>Direccion</div>
     <textarea placeholder="direccion" cols="40" rows="10">contenido por defecto </textarea><br>
-<button class="control">Siguiente</button><br>
-<a href="index.html"> Volver a la bolsa</a>
+<button class="control" onclick="irModoDePago()">Siguiente</button><br>
+<a  onclick="irCarrito()"> Volver a la bolsa</a>
 
      </div>
      
