@@ -71,8 +71,25 @@
       <div>Metodo de envio</div>
       <i class="fa-solid fa-pen-to-square"></i>
       <div>(El consumidor elige el lugar de entrega)</div>
-      <button>Acceptar</button>
+      <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#ventanaModal">Aceptar</button>
 </div>
+<div class="modal fade" id="ventanaModal" tabindex="-1" aria-labelledby="ventanaModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+      <div class="modal-content">
+        <div class="modal-header">
+          <h1 class="modal-title fs-5" id="ventanaModalLabel">Modal title</h1>
+          <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+        </div>
+        <div class="modal-body">
+          ...
+        </div>
+        <div class="modal-footer">
+          <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+          <button type="button" class="btn btn-primary">Save changes</button>
+        </div>
+      </div>
+    </div>
+  </div>
     
 </body>
 </html>
